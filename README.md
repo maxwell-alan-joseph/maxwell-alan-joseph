@@ -9,7 +9,7 @@ I am currently enhancing my skills in the following areas:
 - **Containerization:** Docker
 - **CI/CD Tools:** Jenkins, GitHub Actions
 - **Configuration Management:** Ansible, Terraform
-- **Scripting Languages:** Bash, Python
+- **Scripting Languages:** Bash, Python, Golang
 - **Version Control:** Git, GitHub
 
 ## 🌱 Currently Learning
